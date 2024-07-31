@@ -1,0 +1,12 @@
+{
+  "name": "wallet-api",
+  "version": "1.0.0",
+  "description": "A mock API for managing wallet balances.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
